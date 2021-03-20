@@ -12,6 +12,14 @@ First clone this repo
 
 ```
 
+cd any project
+
+```
+
+    cd project-1
+
+```
+
 Install all dependencies
 
 ```
