@@ -22,6 +22,6 @@ Install all dependencies
 
 ## Basic Commands :floppy_disk:
 
-- `go run main.go` -> to start the app in development mode
-- `go build` -> to build the production application
-- `./main.go` -> to run the build version
+- `go run main.go` -> to run the current app
+- `go build` -> to build the app to production
+- `./main.go` -> to run the built version
