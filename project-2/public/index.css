@@ -1,0 +1,30 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column wrap;
+
+  background-color: #222222;
+  color: #fafafa;
+  text-align: center;
+
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: #fafafa;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
